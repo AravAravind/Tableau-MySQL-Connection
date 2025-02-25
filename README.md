@@ -13,7 +13,7 @@ A step-by-step guide on connecting **Tableau** to a **MySQL** database. 🚀
 1. Open **Tableau Desktop**.  
 2. Click on **More...** under the "To a Server" section, then select **MySQL**.  
 
-   ![Get Data from MySQL](images/1.png)  
+   ![Get Data from MySQL](Images/1.png)  
 
 3. Enter the server details:  
    - **Server**: Typically `localhost:port_number` (e.g., `127.0.0.1:3306`)  
@@ -21,17 +21,17 @@ A step-by-step guide on connecting **Tableau** to a **MySQL** database. 🚀
    - **Username** and **Password**: Enter your MySQL credentials  
    - Click **Sign In**  
 
-   ![MySQL Server Details](images/2.png)  
+   ![MySQL Server Details](Images/2.png)  
 
-   ![Enter Server Details](images/3.png)  
+   ![Enter Server Details](Images/3.png)  
 
 4. Once connected, you should see your MySQL database in Tableau.  
 
-   ![Successful Database Connection in Tableau](images/4.png)  
+   ![Successful Database Connection in Tableau](Images/4.png)  
 
-   ![Tableau Data Source View](images/5.png)  
+   ![Tableau Data Source View](Images/5.png)  
 
-   ![MySQL Workbench Showing Connected Database](images/6.png)  
+   ![MySQL Workbench Showing Connected Database](Images/6.png)  
 
 ## Notes  
 
