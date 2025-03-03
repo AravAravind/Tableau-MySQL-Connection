@@ -1,3 +1,4 @@
+[📌 Click Here to View Documentation](https://aravaravind.github.io/Tableau-MySQL-Connection/)
 # Tableau-MySQL-Connection
 
 A step-by-step guide on connecting **Tableau** to a **MySQL** database. 🚀  
