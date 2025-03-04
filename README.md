@@ -40,6 +40,8 @@ A step-by-step guide on connecting **Tableau** to a **MySQL** database. 🚀
 - Use the correct **MySQL Connector** version for compatibility.  
 - If you encounter issues, check your firewall settings and MySQL configuration.  
 
-## Author  
+## Connect with Me
 
-[Aravind R](https://linkedin.com/in/arav-r)  
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arav-r)
+
+
